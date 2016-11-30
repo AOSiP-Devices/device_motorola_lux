@@ -14,14 +14,14 @@
   },
   {
     "remote":       "github",
-    "repository": "Alberto97/proprietary_vendor_motorola",
+    "repository": "AICP/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "branch":      "cm-14.0"
+    "branch":      "n7.1"
   },
   {
     "remote":       "github",
     "repository": "CyanogenMod/android_external_bson",
     "target_path": "external/bson",
-    "branch":      "cm-13.0"
+    "branch":      "cm-14.1"
   }
 ]
