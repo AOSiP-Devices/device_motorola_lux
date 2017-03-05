@@ -36,6 +36,12 @@
     "branch"     : "cm-14.1-caf-8916"
   },
   {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "cm-14.1"
+  },
+  {
     "remote":      "github",
     "repository":  "LineageOS/android_external_bson",
     "target_path": "external/bson",
