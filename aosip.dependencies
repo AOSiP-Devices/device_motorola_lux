@@ -3,7 +3,7 @@
     "remote":      "github",
     "repository":  "AOSiP-Devices/device_motorola_msm8916-common",
     "target_path": "device/motorola/msm8916-common",
-    "branch":      "n-mr1"
+    "branch":      "nougat"
   },
   {
     "remote":      "github",
@@ -19,27 +19,9 @@
   },
   {
     "remote":      "github",
-    "repository" : "LineageOS/android_hardware_qcom_audio",
-    "target_path": "hardware/qcom/audio-caf/msm8916",
-    "branch"     : "cm-14.1-caf-8916"
-  },
-  {
-    "remote":      "github",
-    "repository" : "LineageOS/android_hardware_qcom_display",
-    "target_path": "hardware/qcom/display-caf/msm8916",
-    "branch"     : "cm-14.1-caf-8916"
-  },
-  {
-    "remote":      "github",
-    "repository" : "LineageOS/android_hardware_qcom_media",
-    "target_path": "hardware/qcom/media-caf/msm8916",
-    "branch"     : "cm-14.1-caf-8916"
-  },
-  {
-    "remote": "github",
-    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "repository":  "LineageOS/android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
-    "branch": "cm-14.1"
+    "branch":      "cm-14.1"
   },
   {
     "remote":      "github",
