@@ -22,6 +22,9 @@ DEVICE_PATH := device/motorola/lux
 # Asserts
 TARGET_OTA_ASSERT_DEVICE := lux,lux_uds,xt1562,xt1563
 
+# Dex
+WITH_DEXPREOPT := false
+
 # Init
 TARGET_INIT_VENDOR_LIB := libinit_lux
 TARGET_RECOVERY_DEVICE_MODULES := libinit_lux
